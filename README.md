@@ -35,4 +35,9 @@ Clone this repository to your local machine.
 Ensure you have the necessary Python packages installed (e.g., pandas, scikit-learn, matplotlib).
 Open the SCT_DS_3.ipynb notebook in Jupyter and run the cells to replicate the analysis.
 ### Conclusion
-This project demonstrates the utility of decision tree classifiers in predicting customer behavior based on demographic and behavioral data.ccustomercustomer engagement efforts.
+This project demonstrates the utility of decision tree classifiers in predicting customer behavior based on demographic and behavioral data.
+### Contributing
+If you'd like to contribute to this project, please fork the repository and submit a pull request.
+
+### Contact
+For any questions or feedback, feel free to contact me at bikashkumargiri23@gmail.com.
